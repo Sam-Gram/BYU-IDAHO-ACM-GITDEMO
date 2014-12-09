@@ -12,3 +12,5 @@ from the original repo, so that I stay up to date, because I want to do a pull r
 later once I've done stuff with it?
 
 Thanks, Justin
+
+Yes, just keep merging in their changes with yours.

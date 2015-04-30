@@ -3,6 +3,8 @@ This is a public Repo for a Git Demo for ACM at BYU-I
 This is Robbie messin with the file!
 
 This is Robert Makin another!
+
+![:)](myimage.png)
   
  Pokemon #6, Charizard. is the best :>
 rawr
